@@ -1,3 +1,4 @@
+/* WIND CHILL */
 import java.util.Scanner;
 
 public class WindChill {
